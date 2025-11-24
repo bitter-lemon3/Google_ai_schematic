@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Web Schematic Editor",
+  "description": "A high-performance React-based EDA tool for schematic capture, supporting component libraries, orthogonal wiring, and SPICE netlist generation.",
+  "requestFramePermissions": []
+}
